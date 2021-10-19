@@ -12,4 +12,4 @@ This project is a game where the player plays a game of blackjack against the de
 - strat(): shows the correct action given the player and dealers hand.
 
 ### Empathy Map 
-![GitHub Logo](/Empathy Map.png)
+![Alt Text](/Empathy Map.png)
