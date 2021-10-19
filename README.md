@@ -9,6 +9,6 @@ This project is a game where the player plays a game of blackjack against the de
 - displayPlayerHand(): shows the players hand and the total the cards add up to.
 - displayDealerHand(): displays one face up card from the dealers hand and any card that has been added.
 - getBetAmount(): Ask the player for the amount they want to bet on the hand. 
-- strat(): shows the correct action for the player and dealers hand.
+- strat(): shows the correct action given the player and dealers hand.
 
 ### Empathy Map 
