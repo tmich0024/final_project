@@ -1,0 +1,44 @@
+Thomas Mitchell
+Black Jack Game
+
+Functions: 
+
+shuffle(): 
+    1. splits the deck of cards in half into two arrays 
+    2. takes the first element from array 1 and puts it back into deck array 
+    3. takes the first element from array 2 and puts it back into deck array 
+    4. Repeat with second, third, so forth until deck array full 
+
+    Complexity: Simple 
+
+addPlayerCard():
+    1. Takes the first unused element from deck array and put into playerHand array
+
+    Complexity: Simple 
+
+addDealerCard():
+    1. Takes the first unused element from deck array and put into dealerHand array
+
+    Complexity: Simple
+
+displayPlayerHand(): 
+    1. Print all elements in playerHand array 
+
+    Complexity: Simple
+
+displayDealerHand():
+    1. Print all elements in dealerHand array
+
+    Complexity: Simple
+
+strat():
+    1. Asks player if they would like to see the move that follows Black Jack strategy
+    2. Calculates playerHand array total 
+    3. Looks at card displayed by dealerHand
+    4. Compares these values to Black Jack stratey 
+    5. Outputs correct move that follows Black Jack strategy
+
+    Complexity: Medium 
+
+
+    
